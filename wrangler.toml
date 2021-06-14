@@ -1,0 +1,6 @@
+name = "donefyou"
+type = "webpack"
+account_id = "e3570ac16c13d12caf65888b3e334a75"
+workers_dev = true
+route = ""
+zone_id = ""
